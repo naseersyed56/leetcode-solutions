@@ -18,12 +18,12 @@ void *reverse(struct ListNode* slow){
 
   struct ListNode* prev =NULL;
   struct ListNode* next =NULL;
-  struct ListNode* curr =slow;
-  while(curr){
-    next =curr->next;
-    curr->next =prev;
-    prev =curr;
-    curr =next;
+ 
+  while(slow){
+    next =slow->next;
+    slow->next =prev;
+    prev =slow;
+    slow =next;
   }
   return prev;
 }
