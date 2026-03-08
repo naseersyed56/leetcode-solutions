@@ -21,4 +21,8 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
