@@ -7,7 +7,6 @@ public:
         if(x< 0 || (x%10==0 && x!=0)) return false;
 
         while(x>rev){
-         //   int digit = val % 10;
             rev = rev*10 + x % 10;
             x/=10;
 
