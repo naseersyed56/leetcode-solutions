@@ -9,6 +9,7 @@
 | [0061-rotate-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/naseersyed56/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/naseersyed56/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/naseersyed56/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -20,6 +21,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/naseersyed56/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/naseersyed56/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -42,4 +44,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/naseersyed56/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/naseersyed56/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
