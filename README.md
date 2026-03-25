@@ -18,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/naseersyed56/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/naseersyed56/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -49,9 +50,14 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/naseersyed56/leetcode-solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/naseersyed56/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
