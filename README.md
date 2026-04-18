@@ -20,6 +20,7 @@
 | ------- |
 | [0015-3sum](https://github.com/naseersyed56/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/naseersyed56/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -32,6 +33,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naseersyed56/leetcode-solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naseersyed56/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -72,5 +75,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naseersyed56/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
