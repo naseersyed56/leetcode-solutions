@@ -50,11 +50,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naseersyed56/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/naseersyed56/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naseersyed56/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naseersyed56/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/naseersyed56/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/naseersyed56/leetcode-solutions/tree/master/0053-maximum-subarray) |
