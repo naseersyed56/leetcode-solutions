@@ -74,6 +74,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naseersyed56/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/naseersyed56/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -87,6 +88,7 @@
 | [0018-4sum](https://github.com/naseersyed56/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/naseersyed56/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/naseersyed56/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -110,4 +113,24 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
