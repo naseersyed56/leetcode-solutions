@@ -60,6 +60,7 @@
 | [0141-linked-list-cycle](https://github.com/naseersyed56/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naseersyed56/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/naseersyed56/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -95,6 +96,7 @@
 | [0075-sort-colors](https://github.com/naseersyed56/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/naseersyed56/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -152,4 +154,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naseersyed56/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/naseersyed56/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
