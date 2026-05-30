@@ -83,6 +83,7 @@
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/naseersyed56/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/naseersyed56/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/naseersyed56/leetcode-solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
