@@ -88,6 +88,7 @@
 | [0260-single-number-iii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/naseersyed56/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/naseersyed56/leetcode-solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/naseersyed56/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/naseersyed56/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/naseersyed56/leetcode-solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/naseersyed56/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naseersyed56/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
