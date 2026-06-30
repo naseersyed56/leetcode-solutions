@@ -53,6 +53,7 @@
 | [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/naseersyed56/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/naseersyed56/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0009-palindrome-number](https://github.com/naseersyed56/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/naseersyed56/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/naseersyed56/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -176,6 +178,7 @@
 | [0137-single-number-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/naseersyed56/leetcode-solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
