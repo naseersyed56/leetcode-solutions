@@ -50,12 +50,14 @@
 | [0021-merge-two-sorted-lists](https://github.com/naseersyed56/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/naseersyed56/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naseersyed56/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -170,6 +172,7 @@
 | ------- |
 | [0136-single-number](https://github.com/naseersyed56/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0260-single-number-iii) |
 ## String
 |  |
