@@ -52,12 +52,14 @@
 | [0206-reverse-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/naseersyed56/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naseersyed56/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/naseersyed56/leetcode-solutions/tree/master/0326-power-of-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
