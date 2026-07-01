@@ -62,6 +62,7 @@
 | [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/naseersyed56/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naseersyed56/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/naseersyed56/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/naseersyed56/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/naseersyed56/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/naseersyed56/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naseersyed56/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
