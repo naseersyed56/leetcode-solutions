@@ -6,8 +6,11 @@ public:
             bool check=true;
             for(int j=1;j<strs.size();j++){
     
-                if(i>strs[j].size())
+                if(i>=strs[j].size()){
+                    check =false;
                     break;
+                }
+        
                     if(strs[0][i]==strs[j][i]){
                 }else{
                     check =false;
