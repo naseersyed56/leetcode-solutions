@@ -9,7 +9,6 @@ public:
                 if(i>strs[j].size())
                     break;
                     if(strs[0][i]==strs[j][i]){
-                         check =true;
                 }else{
                     check =false;
                     break;
