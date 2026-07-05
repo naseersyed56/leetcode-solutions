@@ -4,17 +4,11 @@ public:
 
 
 
-        for(int l :letters){
+     for(char i : letters){
+        if( i >target)return i;
 
-            if( l  > (int)target){
-
-             char k=(char)l;
-
-              return k;
-            
-        }
-    }
-      return(letters[0]);
+     }
+     return(letters[0]);
     }
     
 };
