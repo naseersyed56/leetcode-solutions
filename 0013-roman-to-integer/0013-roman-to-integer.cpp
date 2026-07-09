@@ -16,7 +16,7 @@ public:
 
 for(int i=0;i<s.size();i++){
 
-    if(s[i+1]){
+    if(s[i]){
 
     if(K[s[i]]>=K[s[i+1]])
 
