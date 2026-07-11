@@ -87,6 +87,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/naseersyed56/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/naseersyed56/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
@@ -120,6 +121,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/naseersyed56/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naseersyed56/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/naseersyed56/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -219,6 +222,7 @@
 | [0344-reverse-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
