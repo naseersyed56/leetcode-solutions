@@ -38,6 +38,7 @@
 | [0283-move-zeroes](https://github.com/naseersyed56/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/naseersyed56/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +84,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/naseersyed56/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/naseersyed56/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/naseersyed56/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/naseersyed56/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -109,6 +111,7 @@
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/naseersyed56/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/naseersyed56/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/naseersyed56/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/naseersyed56/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -125,6 +128,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/naseersyed56/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/naseersyed56/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/naseersyed56/leetcode-solutions/tree/master/0704-binary-search) |
@@ -140,6 +144,7 @@
 | [0088-merge-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/naseersyed56/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/naseersyed56/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
