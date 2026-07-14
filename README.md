@@ -88,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/naseersyed56/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/naseersyed56/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/naseersyed56/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -229,6 +231,7 @@
 | [0242-valid-anagram](https://github.com/naseersyed56/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -250,4 +253,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naseersyed56/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
