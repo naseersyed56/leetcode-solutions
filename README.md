@@ -90,6 +90,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/naseersyed56/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
@@ -204,6 +205,7 @@
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -213,6 +215,7 @@
 | [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/naseersyed56/leetcode-solutions/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -228,6 +231,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
