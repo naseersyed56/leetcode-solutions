@@ -73,6 +73,7 @@
 | [0326-power-of-three](https://github.com/naseersyed56/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naseersyed56/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/naseersyed56/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/naseersyed56/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naseersyed56/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/naseersyed56/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -262,4 +264,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
