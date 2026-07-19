@@ -49,6 +49,7 @@
 | [0020-valid-parentheses](https://github.com/naseersyed56/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/naseersyed56/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/naseersyed56/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/naseersyed56/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/naseersyed56/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -240,6 +243,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/naseersyed56/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
