@@ -243,6 +243,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/naseersyed56/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/naseersyed56/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -259,6 +260,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
