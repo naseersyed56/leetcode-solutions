@@ -2,23 +2,23 @@ class Solution {
 public:
     int maxArea(vector<int>& height) {
         
- int max_area =0;
+ int max_area=0,start =0,end = height.size()-1;
 
- int start =0 ,end =height.size()-1;
  while(start<end){
 
-   int  heigh = min(height[start] ,height[end]);
+    int min_h =min(height[start],height[end]);
+    
+    int width = end-start;
 
-    int weidt = end-start;
+    int water_store= width*min_h;
 
-    int water_contain = heigh*weidt;
+    max_area= max(max_area ,water_store);
 
-    max_area = max(max_area, water_contain);
-   
-   if( height[start]<height[end]) start++;
-   else end--;
+    if(height[start]<height[end])start++;
+    else end--;
+
  }
-   return max_area;
  
+   return max_area;
     }
 };
