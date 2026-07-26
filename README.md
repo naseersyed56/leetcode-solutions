@@ -74,6 +74,7 @@
 | [0326-power-of-three](https://github.com/naseersyed56/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naseersyed56/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/naseersyed56/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/naseersyed56/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/naseersyed56/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -125,6 +126,7 @@
 | [0283-move-zeroes](https://github.com/naseersyed56/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/naseersyed56/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/naseersyed56/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/naseersyed56/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/naseersyed56/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -163,6 +165,7 @@
 | [0242-valid-anagram](https://github.com/naseersyed56/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/naseersyed56/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/naseersyed56/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
