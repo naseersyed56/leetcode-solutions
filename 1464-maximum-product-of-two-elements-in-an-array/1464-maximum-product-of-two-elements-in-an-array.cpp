@@ -1,12 +1,11 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        
-        sort(nums.begin(),nums.end());
-        
+       
+       sort(nums.begin(),nums.end());
 
-        int k = (nums[nums.size()-1]-1)*(nums[nums.size()-2]-1);
+       int k = (nums[nums.size()-1]-1)*(nums[nums.size()-2]-1);
 
-        return k;
+       return k;
     }
 };
