@@ -1,39 +1,34 @@
 class Solution {
 public:
-    vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
+    vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int q) {
          
-           int c = grid[0].size();
-        int w =grid.size();
-         vector<int>u(w*c);
-          vector<int>u2 (w*c);
-      
+        int r = grid.size();
+        int c= grid[0].size() ;
 
-        for(int i=0 ;i<grid.size();i++){
+        vector<int>id(r*c),hd(r*c);
 
-            for(int j=0;j<grid[0].size();j++){
-                 
-                 //to convert 2d into 1d
-              int r = (i*c)+j;
-              u[r]=grid[i][j];
-
+//converting 2d array to 1d array
+      int inde =0;
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
+             id[inde++]=grid[i][j];
             }
         }
-          int as= u.size();
-        for(int i=0; i<as; i++){
-              int j= (i+k)%as;
-              u2[j]=u[i];
-        }
-         int index=0;
-       for(int i=0 ;i<w;i++){
-
-        for(int j=0;j<c;j++){
-
-            grid[i][j]=u2[index];
-
-           index++;
-        }
-       }
-        
-        return grid;
+        int k =id.size();
+        //moving arrays
+    for(int i=0;i<k;i++){
+       hd[(i+q)%k]=id[i];
     }
+  int index=0;
+    for(int i=0 ;i<r;i++){
+  for(int j=0;j<c;j++){
+
+    grid[i][j]=hd[index];
+    index++;
+  }
+    }
+     return grid;
+
+   }
+
 };
