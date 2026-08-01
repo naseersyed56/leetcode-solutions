@@ -34,6 +34,7 @@
 | [0141-linked-list-cycle](https://github.com/naseersyed56/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naseersyed56/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/naseersyed56/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/naseersyed56/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/naseersyed56/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -70,6 +71,7 @@
 | [0009-palindrome-number](https://github.com/naseersyed56/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/naseersyed56/leetcode-solutions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/naseersyed56/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/naseersyed56/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naseersyed56/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -120,6 +122,7 @@
 | [0137-single-number-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naseersyed56/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/naseersyed56/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/naseersyed56/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/naseersyed56/leetcode-solutions/tree/master/0260-single-number-iii) |
