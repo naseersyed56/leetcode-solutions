@@ -1,26 +1,31 @@
 class Solution {
 public:
     int romanToInt(string s) {
-       int sum =0;
+      
+      int sum=0;
 
-       unordered_map<char,int>L;
 
-       L['M']=1000;
-       L['D']=500;
-       L['C']=100;
-       L['L']=50;
-       L['X']=10;
-       L['V']=5;
-       L['I']=1;
+      unordered_map<char,int> MP;
 
-       for(int i=0 ;i<s.size();i++){
+      MP['I']=1;
+      MP['V']=5;
+      MP['X']=10;
+      MP['L']=50;
+      MP['C']=100;
+      MP['D']=500;
+      MP['M']=1000;
 
-        if( i<s.size()-1){
-            if(L[s[i]]<L[s[i+1]])sum-=L[s[i]];
-        else sum+=L[s[i]];
-       }else sum+=L[s[i]];
-    }
-    return sum;
+
+      for(int i=0;i<s.size();i++){
+        if(i<s.size()-1){
+        if(MP[s[i]]<MP[s[i+1]])
+        sum-=MP[s[i]];
+        else
+        sum+=MP[s[i]];
+      }else sum+=MP[s[i]];
+      }
+      return sum;
+
     }       
         
 };
