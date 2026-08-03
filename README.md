@@ -291,4 +291,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/naseersyed56/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/naseersyed56/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
