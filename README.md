@@ -100,6 +100,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/naseersyed56/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/naseersyed56/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naseersyed56/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/naseersyed56/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/naseersyed56/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naseersyed56/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/naseersyed56/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/naseersyed56/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/naseersyed56/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
