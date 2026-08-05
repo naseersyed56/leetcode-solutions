@@ -1,28 +1,26 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-
-    unordered_set<int> u;
-     vector<int>p;
-     int maxi =INT_MIN;
-     int mini =INT_MAX;
-       
-        for(int x :nums){
-          u.insert(x);
-          maxi = max( maxi ,x);
-          mini = min(mini , x);
-
-        }
-
-        for(int i=mini ;i<maxi;i++){
-            if(u.find(i) ==u.end() )
-            p.push_back(i);
-        }
      
-      return p;
-       
+     unordered_set<int >l;
+     vector<int>k;
+    int maxi=INT_MIN;
+   int  mini =INT_MAX;
 
+     for(int y: nums){
+        l.insert(y);
+        maxi =max(maxi ,y);
+        mini =min(mini,y);
+     }
 
-        
+     for(int i =mini ;i<maxi;i++){
+
+        if(l.find(i) ==l.end()){
+
+            k.push_back(i);
+        }
+     }
+
+        return k;
     }
 };
